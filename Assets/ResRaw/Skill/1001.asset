@@ -12,6 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e7ca5c0434e14e47835f32b395233b5, type: 3}
   m_Name: ActionTrack
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 2052241807969215243}
   actionClips:
   - {fileID: 6086396932255521651}
@@ -34,6 +43,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e7ca5c0434e14e47835f32b395233b5, type: 3}
   m_Name: ActionTrack(Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 2052241807969215243}
   actionClips:
   - {fileID: 0}
@@ -56,6 +74,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 20df64a2d8844fd18c018690de9a9ce4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 4289642957241329705}
   startTime: 5.9
   length: 1
@@ -72,8 +99,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 24727a20b72b0aa4884c2a267723e5df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -1831655820799714058}
-  startTime: 1.8000004
+  startTime: 1.7
   length: 1
   blendIn: 0.25
   blendOut: 0.25
@@ -92,6 +128,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fb2749d90b133472da797f5201e53720, type: 3}
   m_Name: New Group
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 11400000}
   tracks: []
   isCollapsed: 0
@@ -124,11 +169,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3fecc192183f461ca51109a8fd37fe76, type: 3}
   m_Name: Signal
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 5038322415523911601}
   actionClips:
   - {fileID: 691346275011581662}
   - {fileID: -4933341919257686882}
   - {fileID: -165974923126635361}
+  - {fileID: -347342359189108195}
   active: 1
   isLocked: 0
   color: {r: 1, g: 1, b: 1, a: 1}
@@ -144,6 +199,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68e492df250d44fa823e969d5bb3ba4b, type: 3}
   m_Name: AudioTrack
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 2421673294473460835}
   actionClips:
   - {fileID: -5946407727547842069}
@@ -162,6 +226,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ae04abf770f449088c52fb314b5db844, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 4812298123405222667}
   startTime: 1.5212698
   length: 0.4787302
@@ -191,6 +264,7 @@ MonoBehaviour:
     m_RotationOrder: 4
   interpolation: 6
   move: {x: 10, y: 0, z: 0}
+  testint: 10
 --- !u!114 &-8390943866541051588
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -203,6 +277,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 55f287254a274055ab76bb9e49c2930d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -7314928682108644771}
   startTime: 2.2
   length: 1
@@ -223,6 +306,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e35962605be4f3c933533900bba5cde, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -9038562942270747782}
   startTime: 4.5
   length: 2.4999995
@@ -240,12 +332,64 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68e492df250d44fa823e969d5bb3ba4b, type: 3}
   m_Name: AudioTrack
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 2052241807969215243}
   actionClips:
   - {fileID: 8866586054259784815}
   active: 1
   isLocked: 0
   color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!114 &-8011887580545772191
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd54a0df17194249bb8d85e0b9de3030, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: gameplayTags
+      Entry: 7
+      Data: 0|GameplayTag[], Assembly-CSharp
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  _parent: {fileID: -4911154311831718735}
+  startTime: 1.8000001
+  length: 1
+  gameplayEffect: []
+  gameplayEffects2: []
+  gameplayTags: []
+  gameplayTags2: []
+  gameplayCues: []
+  gameplayCues2: []
+  testInt: 66666
 --- !u!114 &-7847245779407961016
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -258,6 +402,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e35962605be4f3c933533900bba5cde, type: 3}
   m_Name: (Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -9038562942270747782}
   startTime: 8
   length: 1.2263947
@@ -275,6 +428,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 20df64a2d8844fd18c018690de9a9ce4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 3421493369709318135}
   startTime: 3
   length: 1.4
@@ -291,6 +453,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2a9db414099843999551c8e3036e3029, type: 3}
   m_Name: AnimationTrack(Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -6193292197400147721}
   actionClips:
   - {fileID: -6455537411246483948}
@@ -310,6 +481,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e35962605be4f3c933533900bba5cde, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 6108825730301239516}
   startTime: 2.0000005
   length: 1.8
@@ -349,6 +529,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2a9db414099843999551c8e3036e3029, type: 3}
   m_Name: AnimationTrack
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 2421673294473460835}
   actionClips:
   - {fileID: 3156773225310177605}
@@ -368,6 +557,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e7ca5c0434e14e47835f32b395233b5, type: 3}
   m_Name: ActionTrack(Clone)(Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 2052241807969215243}
   actionClips:
   - {fileID: 0}
@@ -390,6 +588,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fb2749d90b133472da797f5201e53720, type: 3}
   m_Name: New Group
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 11400000}
   tracks:
   - {fileID: -511419285017133364}
@@ -409,6 +616,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a8bf4d6ab9cd406894fd8930012dadc6, type: 3}
   m_Name: (Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -6512386889693661367}
   startTime: 0.7
   length: 1
@@ -426,6 +642,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e7ca5c0434e14e47835f32b395233b5, type: 3}
   m_Name: ActionTrack(Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -6193292197400147721}
   actionClips:
   - {fileID: -4667691956033392328}
@@ -449,6 +674,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 659090e873e746ca9f1c6cb94357fd58, type: 3}
   m_Name: EffectTrack(Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -6193292197400147721}
   actionClips:
   - {fileID: -6691130482038473192}
@@ -468,6 +702,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 55f287254a274055ab76bb9e49c2930d, type: 3}
   m_Name: (Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -7682433279878497806}
   startTime: 0
   length: 1
@@ -518,6 +761,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fb2749d90b133472da797f5201e53720, type: 3}
   m_Name: "\u52A8\u753B\u7EC4(Clone)"
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 11400000}
   tracks:
   - {fileID: -7682433279878497806}
@@ -573,6 +825,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 24727a20b72b0aa4884c2a267723e5df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -8600485336773091545}
   startTime: 0.3
   length: 1.2212698
@@ -608,6 +869,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ae04abf770f449088c52fb314b5db844, type: 3}
   m_Name: (Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -1331958185404811511}
   startTime: 1.5212698
   length: 0.4787302
@@ -637,6 +907,7 @@ MonoBehaviour:
     m_RotationOrder: 4
   interpolation: 6
   move: {x: 10, y: 0, z: 0}
+  testint: 10
 --- !u!114 &-5673040216502684458
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -649,9 +920,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 55f287254a274055ab76bb9e49c2930d, type: 3}
   m_Name: (Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -4009478594522060777}
-  startTime: 1.6333332
-  length: 2.766667
+  startTime: 1.3999999
+  length: 1.0000002
   blendIn: 0.13
   blendOut: 0.36666727
   resPath: Assets/ResRaw/Model/Skeleton/Ani/Skeleton@Attack.FBX
@@ -669,6 +949,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e7ca5c0434e14e47835f32b395233b5, type: 3}
   m_Name: ShowHide
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 5038322415523911601}
   actionClips:
   - {fileID: -2099111487404117654}
@@ -692,6 +981,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 20df64a2d8844fd18c018690de9a9ce4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 7955128618377901320}
   startTime: 0.8
   length: 0.50000006
@@ -723,6 +1021,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 154d3633e4d442e59b4cc7751d8f6c64, type: 3}
   m_Name: (Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -8626493731863738039}
   startTime: 0.89999986
   eventName: 2
@@ -741,11 +1048,48 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e35962605be4f3c933533900bba5cde, type: 3}
   m_Name: (Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 820056601660348500}
   startTime: 6.7000003
   length: 1
   interpolation: 6
   targetScale: {x: 1, y: 1}
+--- !u!114 &-4911154311831718735
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfbfeb119b4e4d50bac5b9e735ae3148, type: 3}
+  m_Name: TestCustomGASTrack
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _parent: {fileID: -2986703114538356613}
+  actionClips:
+  - {fileID: -3482948055220283912}
+  - {fileID: -8011887580545772191}
+  active: 1
+  isLocked: 0
+  color: {r: 1, g: 1, b: 1, a: 1}
 --- !u!114 &-4886636036887155045
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -758,6 +1102,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 24727a20b72b0aa4884c2a267723e5df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 2485304364595665120}
   startTime: 2.3
   length: 4.6895914
@@ -778,6 +1131,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 55f287254a274055ab76bb9e49c2930d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -4009478594522060777}
   startTime: 4.966667
   length: 0.73333263
@@ -798,6 +1160,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 20df64a2d8844fd18c018690de9a9ce4, type: 3}
   m_Name: (Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -6518306393348296919}
   startTime: 0
   length: 0.8
@@ -814,6 +1185,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3fecc192183f461ca51109a8fd37fe76, type: 3}
   m_Name: SignalTrack
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 2421673294473460835}
   actionClips:
   - {fileID: 7750291954973258129}
@@ -834,6 +1214,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ae04abf770f449088c52fb314b5db844, type: 3}
   m_Name: (Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 4289642957241329705}
   startTime: 4.4
   length: 1.2999997
@@ -863,6 +1252,7 @@ MonoBehaviour:
     m_RotationOrder: 4
   interpolation: 6
   move: {x: 10, y: 0, z: 0}
+  testint: 10
 --- !u!114 &-4009478594522060777
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -875,6 +1265,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2a9db414099843999551c8e3036e3029, type: 3}
   m_Name: "\u52A8\u753B"
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 5038322415523911601}
   actionClips:
   - {fileID: 7420767043788259824}
@@ -895,6 +1294,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fb2749d90b133472da797f5201e53720, type: 3}
   m_Name: New Group
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 11400000}
   tracks: []
   isCollapsed: 0
@@ -912,10 +1320,62 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 20df64a2d8844fd18c018690de9a9ce4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -511419285017133364}
   startTime: 4.2000003
   length: 3.9
   visible: 1
+--- !u!114 &-3482948055220283912
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd54a0df17194249bb8d85e0b9de3030, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: gameplayTags
+      Entry: 7
+      Data: 0|GameplayTag[], Assembly-CSharp
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  _parent: {fileID: -4911154311831718735}
+  startTime: 0.6
+  length: 0.8
+  gameplayEffect: []
+  gameplayEffects2: []
+  gameplayTags: []
+  gameplayTags2: []
+  gameplayCues: []
+  gameplayCues2: []
+  testInt: 88888
 --- !u!114 &-3092156572556315078
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -928,11 +1388,47 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8302a8becde649e7889e8070e220abf0, type: 3}
   m_Name: (Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -1331958185404811511}
   startTime: 2.1
   length: 0.4000001
   interpolation: 6
   moveType: 2
+--- !u!114 &-2986703114538356613
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb2749d90b133472da797f5201e53720, type: 3}
+  m_Name: New Group
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _parent: {fileID: 11400000}
+  tracks:
+  - {fileID: -4911154311831718735}
+  isCollapsed: 0
+  active: 1
+  isLocked: 0
 --- !u!114 &-2952980916753599625
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -945,6 +1441,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 20df64a2d8844fd18c018690de9a9ce4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 3421493369709318135}
   startTime: 0.5
   length: 1.5
@@ -976,6 +1481,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e35962605be4f3c933533900bba5cde, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 4812298123405222667}
   startTime: 0
   length: 0.5
@@ -993,6 +1507,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e7ca5c0434e14e47835f32b395233b5, type: 3}
   m_Name: ActionTrack
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 2052241807969215243}
   actionClips:
   - {fileID: 4878250233350209027}
@@ -1014,8 +1537,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 55f287254a274055ab76bb9e49c2930d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -4009478594522060777}
-  startTime: 4.6
+  startTime: 3
   length: 1
   blendIn: 0.25
   blendOut: 0.25
@@ -1034,6 +1566,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a8bf4d6ab9cd406894fd8930012dadc6, type: 3}
   m_Name: (Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -439315439554179066}
   startTime: 0
   length: 1
@@ -1051,6 +1592,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 20df64a2d8844fd18c018690de9a9ce4, type: 3}
   m_Name: (Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -5613301667030696789}
   startTime: 0
   length: 1.5212698
@@ -1067,6 +1617,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68e492df250d44fa823e969d5bb3ba4b, type: 3}
   m_Name: Sound
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 5038322415523911601}
   actionClips:
   - {fileID: -440041318538188452}
@@ -1086,6 +1645,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 20df64a2d8844fd18c018690de9a9ce4, type: 3}
   m_Name: (Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -6518306393348296919}
   startTime: 1.3000001
   length: 1.6
@@ -1102,6 +1670,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a64349cad6264d0b9c283e9780792fb3, type: 3}
   m_Name: (Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 2182615773282067160}
   startTime: 0.3
   log: log
@@ -1117,6 +1694,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e7ca5c0434e14e47835f32b395233b5, type: 3}
   m_Name: ActionTrack(Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -6193292197400147721}
   actionClips:
   - {fileID: 6874698949972719715}
@@ -1142,6 +1728,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e7ca5c0434e14e47835f32b395233b5, type: 3}
   m_Name: ActionTrack
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 2052241807969215243}
   actionClips: []
   active: 1
@@ -1162,6 +1757,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68e492df250d44fa823e969d5bb3ba4b, type: 3}
   m_Name: AudioTrack(Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 2052241807969215243}
   actionClips:
   - {fileID: 6053671843138208180}
@@ -1180,11 +1784,46 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fb2749d90b133472da797f5201e53720, type: 3}
   m_Name: New Group
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 11400000}
   tracks: []
   isCollapsed: 0
   active: 1
   isLocked: 0
+--- !u!114 &-777433420036952149
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fecc192183f461ca51109a8fd37fe76, type: 3}
+  m_Name: SignalTrack
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _parent: {fileID: 5038322415523911601}
+  actionClips: []
+  active: 1
+  isLocked: 0
+  color: {r: 1, g: 1, b: 1, a: 1}
 --- !u!114 &-670139541738208453
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1197,6 +1836,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e7ca5c0434e14e47835f32b395233b5, type: 3}
   m_Name: ActionTrack
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -6971113706048364557}
   actionClips:
   - {fileID: 0}
@@ -1218,6 +1866,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e7ca5c0434e14e47835f32b395233b5, type: 3}
   m_Name: ActionTrack
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -6971113706048364557}
   actionClips:
   - {fileID: -3749992810271452583}
@@ -1239,6 +1896,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 24727a20b72b0aa4884c2a267723e5df, type: 3}
   m_Name: (Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -1831655820799714058}
   startTime: 0.3
   length: 1.2212698
@@ -1259,6 +1925,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 659090e873e746ca9f1c6cb94357fd58, type: 3}
   m_Name: EffectTrack
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 5038322415523911601}
   actionClips:
   - {fileID: -2307355441778959011}
@@ -1266,6 +1941,33 @@ MonoBehaviour:
   isLocked: 0
   color: {r: 1, g: 1, b: 1, a: 1}
   Layer: 0
+--- !u!114 &-347342359189108195
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 154d3633e4d442e59b4cc7751d8f6c64, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _parent: {fileID: -8626493731863738039}
+  startTime: 2.1000004
+  eventName: 2
+  calculateType: 0
+  calculateArgs: 0
+  kill: 0
 --- !u!114 &-307318114516498116
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1278,6 +1980,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d021182972d24cb5a79025998b329ab4, type: 3}
   m_Name: (Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -1331958185404811511}
   startTime: 0.6
   length: 0.3
@@ -1295,6 +2006,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9b2c28d156e9454aa0b523e22e03263c, type: 3}
   m_Name: (Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -8626493731863738039}
   startTime: 1.3999999
   shakeType: 3
@@ -1329,12 +2049,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40827cb21221493448cc239bd8b5864d, type: 3}
   m_Name: 1001
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 0}
   groups:
   - {fileID: 5038322415523911601}
+  - {fileID: -2986703114538356613}
   length: 7.1
-  viewTimeMin: -1.2642207
-  viewTimeMax: 7.516051
+  viewTimeMin: 0
+  viewTimeMax: 4.843381
 --- !u!114 &8519243884379441
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1347,6 +2077,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 20df64a2d8844fd18c018690de9a9ce4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 7955128618377901320}
   startTime: 0
   length: 0.8
@@ -1363,6 +2102,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 20df64a2d8844fd18c018690de9a9ce4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 3421493369709318135}
   startTime: 1.1
   length: 1
@@ -1379,11 +2127,46 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e35962605be4f3c933533900bba5cde, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 8340403032501932677}
   startTime: 6.7000003
   length: 1
   interpolation: 6
   targetScale: {x: 1, y: 1}
+--- !u!114 &68021656256926422
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8302a8becde649e7889e8070e220abf0, type: 3}
+  m_Name: (Clone)(Clone)
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _parent: {fileID: 4289642957241329705}
+  startTime: 2.6000001
+  length: 0.20000052
+  interpolation: 6
+  moveType: 2
 --- !u!114 &141675144021148448
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1396,6 +2179,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 20df64a2d8844fd18c018690de9a9ce4, type: 3}
   m_Name: (Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -5613301667030696789}
   startTime: 4.2999997
   length: 0.32127
@@ -1412,6 +2204,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e35962605be4f3c933533900bba5cde, type: 3}
   m_Name: (Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 6027224863182555935}
   startTime: 12.900001
   length: 2.4999995
@@ -1444,6 +2245,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 154d3633e4d442e59b4cc7751d8f6c64, type: 3}
   m_Name: (Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 2182615773282067160}
   startTime: 0.90000004
   eventName: 2
@@ -1462,6 +2272,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d021182972d24cb5a79025998b329ab4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 4812298123405222667}
   startTime: 1
   length: 0.30000007
@@ -1479,6 +2298,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a64349cad6264d0b9c283e9780792fb3, type: 3}
   m_Name: (Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -8626493731863738039}
   startTime: 0.3
   log: log
@@ -1494,6 +2322,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 20df64a2d8844fd18c018690de9a9ce4, type: 3}
   m_Name: (Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -6518306393348296919}
   startTime: 0.8
   length: 0.50000006
@@ -1510,6 +2347,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e7ca5c0434e14e47835f32b395233b5, type: 3}
   m_Name: ActionTrack(Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 2344107114272332111}
   actionClips:
   - {fileID: -4930874504061868873}
@@ -1531,6 +2377,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 20df64a2d8844fd18c018690de9a9ce4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 3421493369709318135}
   startTime: 1.6000001
   length: 1
@@ -1547,6 +2402,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 659090e873e746ca9f1c6cb94357fd58, type: 3}
   m_Name: EffectTrack(Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 5038322415523911601}
   actionClips:
   - {fileID: 4576336680581061313}
@@ -1566,6 +2430,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 20df64a2d8844fd18c018690de9a9ce4, type: 3}
   m_Name: (Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 6027224863182555935}
   startTime: 0
   length: 1.5
@@ -1597,6 +2470,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8302a8becde649e7889e8070e220abf0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 4289642957241329705}
   startTime: 0.99999976
   length: 1
@@ -1614,6 +2496,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fb2749d90b133472da797f5201e53720, type: 3}
   m_Name: New Group
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 11400000}
   tracks:
   - {fileID: -2514134744591031628}
@@ -1636,6 +2527,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e7ca5c0434e14e47835f32b395233b5, type: 3}
   m_Name: ActionTrack(Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 2052241807969215243}
   actionClips:
   - {fileID: 0}
@@ -1658,6 +2558,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3fecc192183f461ca51109a8fd37fe76, type: 3}
   m_Name: SignalTrack(Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -6193292197400147721}
   actionClips:
   - {fileID: -1545421638666265824}
@@ -1678,6 +2587,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 55f287254a274055ab76bb9e49c2930d, type: 3}
   m_Name: (Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -7682433279878497806}
   startTime: 1.1
   length: 1
@@ -1698,6 +2616,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fb2749d90b133472da797f5201e53720, type: 3}
   m_Name: New Group(Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 11400000}
   tracks:
   - {fileID: 6661665818747083413}
@@ -1717,6 +2644,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fb2749d90b133472da797f5201e53720, type: 3}
   m_Name: "\u52A8\u753B\u7EC4"
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 11400000}
   tracks:
   - {fileID: -7314928682108644771}
@@ -1741,6 +2677,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 24727a20b72b0aa4884c2a267723e5df, type: 3}
   m_Name: (Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 6469096909116453220}
   startTime: 0.3
   length: 1.2212698
@@ -1761,6 +2706,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68e492df250d44fa823e969d5bb3ba4b, type: 3}
   m_Name: AudioTrack
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 8514301096953067756}
   actionClips:
   - {fileID: -4886636036887155045}
@@ -1779,6 +2733,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e35962605be4f3c933533900bba5cde, type: 3}
   m_Name: (Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 6027224863182555935}
   startTime: 6.7000003
   length: 2.4999995
@@ -1796,6 +2759,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 55f287254a274055ab76bb9e49c2930d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -7314928682108644771}
   startTime: 0
   length: 1
@@ -1816,6 +2788,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fb2749d90b133472da797f5201e53720, type: 3}
   m_Name: New Group
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 11400000}
   tracks: []
   isCollapsed: 0
@@ -1833,6 +2814,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e35962605be4f3c933533900bba5cde, type: 3}
   m_Name: (Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 6027224863182555935}
   startTime: 9.7
   length: 2.4999995
@@ -1850,6 +2840,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e7ca5c0434e14e47835f32b395233b5, type: 3}
   m_Name: ActionTrack
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 8514301096953067756}
   actionClips:
   - {fileID: 917750221508740612}
@@ -1887,6 +2886,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fb2749d90b133472da797f5201e53720, type: 3}
   m_Name: New Group
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 11400000}
   tracks: []
   isCollapsed: 0
@@ -1904,6 +2912,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d021182972d24cb5a79025998b329ab4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 4812298123405222667}
   startTime: 0.6
   length: 0.3
@@ -1921,6 +2938,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d021182972d24cb5a79025998b329ab4, type: 3}
   m_Name: (Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 4289642957241329705}
   startTime: 3.4
   length: 0.30000007
@@ -1938,6 +2964,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e7ca5c0434e14e47835f32b395233b5, type: 3}
   m_Name: ActionTrack(Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 2052241807969215243}
   actionClips:
   - {fileID: 0}
@@ -1975,6 +3010,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8302a8becde649e7889e8070e220abf0, type: 3}
   m_Name: (Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 4289642957241329705}
   startTime: 2.1000004
   length: 0.4000001
@@ -1992,11 +3036,45 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fb2749d90b133472da797f5201e53720, type: 3}
   m_Name: New Group
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 11400000}
   tracks: []
   isCollapsed: 0
   active: 1
   isLocked: 0
+--- !u!114 &4164843241589318218
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20df64a2d8844fd18c018690de9a9ce4, type: 3}
+  m_Name: (Clone)(Clone)
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _parent: {fileID: -5613301667030696789}
+  startTime: 1.7
+  length: 1.5212698
+  visible: 1
 --- !u!114 &4289642957241329705
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2009,6 +3087,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e7ca5c0434e14e47835f32b395233b5, type: 3}
   m_Name: Test
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 5038322415523911601}
   actionClips:
   - {fileID: 6285688232300075761}
@@ -2035,6 +3122,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fb2749d90b133472da797f5201e53720, type: 3}
   m_Name: New Group
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 11400000}
   tracks: []
   isCollapsed: 0
@@ -2052,6 +3148,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a8bf4d6ab9cd406894fd8930012dadc6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 8737440696085545649}
   startTime: 0.7
   length: 1
@@ -2069,6 +3174,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a8bf4d6ab9cd406894fd8930012dadc6, type: 3}
   m_Name: (Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 964225245542961433}
   startTime: 0.7
   length: 1
@@ -2101,6 +3215,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 55f287254a274055ab76bb9e49c2930d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -7314928682108644771}
   startTime: 1.1
   length: 1
@@ -2121,6 +3244,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d021182972d24cb5a79025998b329ab4, type: 3}
   m_Name: (Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 4289642957241329705}
   startTime: 2.8000007
   length: 0.3
@@ -2138,6 +3270,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e7ca5c0434e14e47835f32b395233b5, type: 3}
   m_Name: ActionTrack
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 2421673294473460835}
   actionClips:
   - {fileID: -2554256390520387415}
@@ -2163,6 +3304,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8302a8becde649e7889e8070e220abf0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -2514134744591031628}
   startTime: 1.3000001
   length: 2.6
@@ -2180,6 +3330,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 20df64a2d8844fd18c018690de9a9ce4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -1273806878964031974}
   startTime: 3.2
   length: 1
@@ -2196,6 +3355,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fb2749d90b133472da797f5201e53720, type: 3}
   m_Name: New Group
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 11400000}
   tracks: []
   isCollapsed: 0
@@ -2213,6 +3381,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 20df64a2d8844fd18c018690de9a9ce4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 6108825730301239516}
   startTime: 4.7000003
   length: 1
@@ -2229,6 +3406,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fb2749d90b133472da797f5201e53720, type: 3}
   m_Name: TestGroup
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 11400000}
   tracks:
   - {fileID: -4009478594522060777}
@@ -2237,6 +3423,7 @@ MonoBehaviour:
   - {fileID: -8626493731863738039}
   - {fileID: -5613301667030696789}
   - {fileID: 4289642957241329705}
+  - {fileID: -777433420036952149}
   isCollapsed: 0
   active: 1
   isLocked: 0
@@ -2252,6 +3439,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e35962605be4f3c933533900bba5cde, type: 3}
   m_Name: (Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -9038562942270747782}
   startTime: 8.6
   length: 2.4999995
@@ -2269,6 +3465,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e35962605be4f3c933533900bba5cde, type: 3}
   m_Name: (Clone)(Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 6027224863182555935}
   startTime: 2.5
   length: 2.4999995
@@ -2286,6 +3491,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d021182972d24cb5a79025998b329ab4, type: 3}
   m_Name: (Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -1331958185404811511}
   startTime: 1
   length: 0.30000007
@@ -2318,6 +3532,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 20df64a2d8844fd18c018690de9a9ce4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 7955128618377901320}
   startTime: 1.3000001
   length: 1.6
@@ -2366,6 +3589,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e35962605be4f3c933533900bba5cde, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -1273806878964031974}
   startTime: 4.9
   length: 1
@@ -2383,6 +3615,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e7ca5c0434e14e47835f32b395233b5, type: 3}
   m_Name: ActionTrack(Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 2052241807969215243}
   actionClips:
   - {fileID: 1210502192756726403}
@@ -2408,6 +3649,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 24727a20b72b0aa4884c2a267723e5df, type: 3}
   m_Name: (Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -1182779308223861844}
   startTime: 5.47873
   length: 1.2212698
@@ -2428,6 +3678,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 20df64a2d8844fd18c018690de9a9ce4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -9038562942270747782}
   startTime: 0.8
   length: 1
@@ -2444,6 +3703,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e7ca5c0434e14e47835f32b395233b5, type: 3}
   m_Name: ActionTrack
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 8514301096953067756}
   actionClips:
   - {fileID: 8826833473566942192}
@@ -2465,6 +3733,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e35962605be4f3c933533900bba5cde, type: 3}
   m_Name: (Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 4289642957241329705}
   startTime: 0
   length: 0.5
@@ -2482,6 +3759,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e7ca5c0434e14e47835f32b395233b5, type: 3}
   m_Name: ActionTrack(Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 2052241807969215243}
   actionClips:
   - {fileID: 6086396932255521651}
@@ -2504,6 +3790,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68e492df250d44fa823e969d5bb3ba4b, type: 3}
   m_Name: AudioTrack(Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -6193292197400147721}
   actionClips:
   - {fileID: 2446110951282644556}
@@ -2522,6 +3817,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e7ca5c0434e14e47835f32b395233b5, type: 3}
   m_Name: ActionTrack(Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 2344107114272332111}
   actionClips:
   - {fileID: 8598749091557965077}
@@ -2543,6 +3847,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e35962605be4f3c933533900bba5cde, type: 3}
   m_Name: (Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -1331958185404811511}
   startTime: 0
   length: 0.5
@@ -2560,6 +3873,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 55f287254a274055ab76bb9e49c2930d, type: 3}
   m_Name: (Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -4009478594522060777}
   startTime: 0
   length: 1.1666667
@@ -2580,6 +3902,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 55f287254a274055ab76bb9e49c2930d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -7314928682108644771}
   startTime: 1.4
   length: 0.033333335
@@ -2600,6 +3931,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ae04abf770f449088c52fb314b5db844, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 8340403032501932677}
   startTime: 1.2
   length: 2.2
@@ -2611,6 +3951,36 @@ MonoBehaviour:
     m_RotationOrder: 4
   interpolation: 6
   move: {x: 0, y: 0, z: 0}
+  testint: 10
+--- !u!114 &7671043418660570493
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55f287254a274055ab76bb9e49c2930d, type: 3}
+  m_Name: (Clone)
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _parent: {fileID: -4009478594522060777}
+  startTime: 4.2999997
+  length: 1
+  blendIn: 0.25
+  blendOut: 0.25
+  resPath: 
+  playbackSpeed: 1
+  clipOffset: 0
 --- !u!114 &7747560456927764879
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2623,6 +3993,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 20df64a2d8844fd18c018690de9a9ce4, type: 3}
   m_Name: (Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -5613301667030696789}
   startTime: 3.7000003
   length: 0.50000006
@@ -2639,6 +4018,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a64349cad6264d0b9c283e9780792fb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -4263558228211353097}
   startTime: 0.3
   log: log
@@ -2654,6 +4042,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 20df64a2d8844fd18c018690de9a9ce4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -1273806878964031974}
   startTime: 1.6
   length: 1
@@ -2685,6 +4082,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fb2749d90b133472da797f5201e53720, type: 3}
   m_Name: New Group
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 11400000}
   tracks: []
   isCollapsed: 0
@@ -2733,6 +4139,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e7ca5c0434e14e47835f32b395233b5, type: 3}
   m_Name: ActionTrack
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 2421673294473460835}
   actionClips:
   - {fileID: 8519243884379441}
@@ -2756,6 +4171,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9b2c28d156e9454aa0b523e22e03263c, type: 3}
   m_Name: (Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 2182615773282067160}
   startTime: 1.4
   shakeType: 3
@@ -2775,6 +4199,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fb2749d90b133472da797f5201e53720, type: 3}
   m_Name: New Group
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 11400000}
   tracks: []
   isCollapsed: 0
@@ -2807,6 +4240,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e7ca5c0434e14e47835f32b395233b5, type: 3}
   m_Name: ActionTrack
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -6971113706048364557}
   actionClips:
   - {fileID: 7653458036167790442}
@@ -2829,6 +4271,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fb2749d90b133472da797f5201e53720, type: 3}
   m_Name: New Group
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 11400000}
   tracks:
   - {fileID: 0}
@@ -2853,6 +4304,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e35962605be4f3c933533900bba5cde, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -2514134744591031628}
   startTime: 2.8
   length: 1
@@ -2870,6 +4330,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e7ca5c0434e14e47835f32b395233b5, type: 3}
   m_Name: ActionTrack(Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 2344107114272332111}
   actionClips:
   - {fileID: 0}
@@ -2891,6 +4360,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 20df64a2d8844fd18c018690de9a9ce4, type: 3}
   m_Name: (Clone)
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 6661665818747083413}
   startTime: 4.2000003
   length: 1
@@ -2907,6 +4385,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 659090e873e746ca9f1c6cb94357fd58, type: 3}
   m_Name: EffectTrack
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 2421673294473460835}
   actionClips:
   - {fileID: 4340323592678432238}
@@ -2926,6 +4413,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fb2749d90b133472da797f5201e53720, type: 3}
   m_Name: New Group
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 11400000}
   tracks: []
   isCollapsed: 0
@@ -2943,6 +4439,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e35962605be4f3c933533900bba5cde, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 6108825730301239516}
   startTime: 2.9999988
   length: 1
@@ -2960,6 +4465,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 24727a20b72b0aa4884c2a267723e5df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -8070562804151900994}
   startTime: 3.6000001
   length: 1.2212698
@@ -2967,6 +4481,35 @@ MonoBehaviour:
   blendOut: 0.88
   resPath: Assets/ResRaw/Sound/open_door.wav
   volume: 0.813
+  clipOffset: 0
+--- !u!114 &8904367985124808120
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55f287254a274055ab76bb9e49c2930d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _parent: {fileID: -4009478594522060777}
+  startTime: 4.2999997
+  length: 1
+  blendIn: 0.25
+  blendOut: 0.25
+  resPath: 
+  playbackSpeed: 1
   clipOffset: 0
 --- !u!114 &8931782264156719768
 MonoBehaviour:
@@ -2980,6 +4523,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8302a8becde649e7889e8070e220abf0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: 4812298123405222667}
   startTime: 2.1
   length: 0.4000001
@@ -2997,6 +4549,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 154d3633e4d442e59b4cc7751d8f6c64, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -4263558228211353097}
   startTime: 0.90000004
   eventName: 2
@@ -3015,6 +4576,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9b2c28d156e9454aa0b523e22e03263c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   _parent: {fileID: -4263558228211353097}
   startTime: 1.4
   shakeType: 3
