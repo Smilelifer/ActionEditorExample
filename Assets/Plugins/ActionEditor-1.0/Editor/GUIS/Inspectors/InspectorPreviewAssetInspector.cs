@@ -101,10 +101,11 @@ namespace NBC.ActionEditor
                     _currentAssetEditor = newEditor;
                 }
 
-                if (_currentAssetEditor != null)
-                {
-                    _currentAssetEditor.OnInspectorGUI();
-                }
+                // if (_currentAssetEditor != null)
+                // {
+                //     _currentAssetEditor.OnInspectorGUI();
+                // }
+                //UnityEditor.Selection.activeObject = _currentDirectableEditor;
             }
         }
 
@@ -143,7 +144,8 @@ namespace NBC.ActionEditor
             GUILayout.Space(4);
             ShowPreliminaryInspector();
 
-            if (_currentDirectableEditor != null) _currentDirectableEditor.OnInspectorGUI();
+            // if (_currentDirectableEditor != null) _currentDirectableEditor.OnInspectorGUI();
+            UnityEditor.Selection.activeObject = selection;
         }
 
         /// <summary>

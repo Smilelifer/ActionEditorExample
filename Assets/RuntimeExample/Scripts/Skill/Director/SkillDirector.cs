@@ -52,7 +52,10 @@ namespace NBC.ActionEditorExample
             {
                 classInst = new TriggerShakeClipTask();
             }
-
+            else if (clip is TestReleaseGEClip)
+            {
+                classInst = new ReleaseGETask();
+            }
             if (classInst != null)
             {
                 classInst.Time = clip.StartTime;

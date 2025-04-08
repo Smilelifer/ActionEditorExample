@@ -42,4 +42,9 @@ public class TestReleaseGEClip : ActionClip
     public override bool isValid => true;
 
     private ActionTrack Track => (ActionTrack)Parent;
+
+    public override string ToString()
+    {
+        return "TestReleaseGEClip" + base.ToString() + " " + gameplayEffect.Length + " " + gameplayTags.Length + " " + gameplayCues.Length;
+    }
 }
